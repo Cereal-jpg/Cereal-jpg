@@ -27,7 +27,7 @@ Soy estudiante de **Ingeniería Informática** en la [Pontificia Universidad Cat
 ## 📫 Contacto
 
 - 📧 Correo: [angelcerdan1@hotmail.com](mailto:angelcerdan1@hotmail.com)
-- 💼 LinkedIn: [linkedin.com/in/angelcerdan](www.linkedin.com/in/angel-cerdán-2a1091319)
+- 💼 LinkedIn: [linkedin.com/in/angelcerdan](https://www.linkedin.com/in/angel-cerd%C3%A1n-2a1091319/)
 
 ---
 
