@@ -11,17 +11,16 @@ Estudiante de **Ingeniería Informática** en la [Pontificia Universidad Católi
 - Tesis de pregrado: predicción de productividad de grúas (CMPH) mediante modelos de ensamble (SVR, XGBoost, HistGradientBoosting).
 - En proceso de especialización en ML Engineering: llevar modelos de ML desde el experimento hasta producción (tracking, tuning, despliegue).
 - Experiencia end-to-end en datos: desde la extracción y limpieza hasta la visualización, modelado y automatización.
-- Interés en ML aplicado a planificación operativa portuaria, MLOps y analítica logística.
 
 ---
 
 ## Tecnologías y herramientas
 
-- **Lenguajes:** Python (pandas, NumPy, scikit-learn, XGBoost), SQL, R (básico), Bash, VBA
+- **Lenguajes:** Python (pandas, NumPy, scikit-learn, XGBoost), SQL, R, Bash, VBA
 - **ML / MLOps (en progreso):** Optuna, MLflow, modelos de ensamble (stacking, boosting)
 - **Visualización / BI:** Power BI (DAX), Matplotlib, Seaborn, Plotly
 - **Bases de datos:** SQL Server, MySQL, PostgreSQL
-- **Otras herramientas:** Git, Jupyter Notebooks, Google Colab, VS Code, Navis N4
+- **Otras herramientas:** Git, Jupyter Notebooks, Google Colab, VS Code
 
 ---
 
