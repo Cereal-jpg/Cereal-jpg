@@ -1,34 +1,21 @@
-# Ángel Cerdán
-Estudiante de Ingeniería Informática | Business Intelligence & ML Engineering
+# Angel Cerdán
 
-Estudiante de **Ingeniería Informática** en la [Pontificia Universidad Católica del Perú (PUCP)](https://www.pucp.edu.pe/), actualmente desempeñándome como **practicante de Business Intelligence en APM Terminals Callao**, donde desarrollo pipelines de reportería, dashboards en Power BI y análisis operativos sobre datos de Navis N4. Mi tesis de pregrado aplica machine learning para predecir la productividad de grúas portuarias (CMPH), y es la base de mi especialización hacia **ML Engineering**.
+Data & ML engineer from Lima, Peru. I built ML models for crane productivity at APM Terminals and I'm now building credit risk and fraud models.
 
----
+## Projects
 
-## Perfil profesional
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| Credit risk scoring | Predicts default risk; logistic regression vs LightGBM, explained with SHAP | Python, scikit-learn, LightGBM | 🚧 In progress (Dec 2026) |
+| Crane productivity prediction (thesis) | Predicts gantry crane productivity (moves/hour) per vessel call at a port terminal; stacking ensemble (SVR, XGBoost, HistGradientBoosting), R² 0.59 and −34.5% MAE vs. best baseline, ~2M container moves | Python, scikit-learn, XGBoost, Optuna, MLflow | 📄 Thesis done · public version with synthetic data coming |
 
-- Practicante de BI en APM Terminals Callao: pipelines de procesamiento (SOFs, matrices de atraque, carga líquida), reportes comerciales semanales y dashboards operativos.
-- Tesis de pregrado: predicción de productividad de grúas (CMPH) mediante modelos de ensamble (SVR, XGBoost, HistGradientBoosting).
-- En proceso de especialización en ML Engineering: llevar modelos de ML desde el experimento hasta producción (tracking, tuning, despliegue).
-- Experiencia end-to-end en datos: desde la extracción y limpieza hasta la visualización, modelado y automatización.
+## Stack
 
----
+- **ML & data:** Python, pandas, scikit-learn
+- **Data & BI:** SQL Server, Power BI
+- **Tools:** Git, Docker
 
-## Tecnologías y herramientas
+## Contact
 
-- **Lenguajes:** Python (pandas, NumPy, scikit-learn, XGBoost), SQL, R, Bash, VBA
-- **ML / MLOps (en progreso):** Optuna, MLflow, modelos de ensamble (stacking, boosting)
-- **Visualización / BI:** Power BI (DAX), Matplotlib, Seaborn, Plotly
-- **Bases de datos:** SQL Server, MySQL, PostgreSQL
-- **Otras herramientas:** Git, Jupyter Notebooks, Google Colab, VS Code
-
----
-
-## Contacto
-
-- Correo: [angelcerdan1@hotmail.com](mailto:angelcerdan1@hotmail.com)
-- LinkedIn: [linkedin.com/in/angelcerdan](https://www.linkedin.com/in/angel-cerd%C3%A1n-2a1091319/)
-
----
-
-> _"A lesson without pain is meaningless. That's because you can't gain something without sacrificing something else."_
+- LinkedIn: www.linkedin.com/in/angel-cerdán-2a1091319
+- Email: angelcerdan1@hotmail.com
